@@ -12,7 +12,7 @@
     },
     {
       "library": "twitter-bootstrap@3.0.3",
-      "destination": "wwwroot/lib/bootstrap/"
+      "destination": "wwwroot/lib/twitter-bootstrap/"
     }
   ]
 }
