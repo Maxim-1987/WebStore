@@ -262,8 +262,6 @@ C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\WebStore.TagHelpers.input.cache
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\WebStore.TagHelpers.output.cache
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\WebStore.RazorCoreGenerate.cache
-C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmployeeDetails.cshtml.g.cs
-C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Employees.cshtml.g.cs
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Phone\PhoneDetails.cshtml.g.cs
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Phone\PhoneList.cshtml.g.cs
@@ -295,3 +293,6 @@ C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EmployeeDetails.cshtml.g.cs
+C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Employees.cshtml.g.cs
+C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
