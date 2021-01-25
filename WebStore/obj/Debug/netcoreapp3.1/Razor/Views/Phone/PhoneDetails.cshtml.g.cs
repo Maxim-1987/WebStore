@@ -12,7 +12,22 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 1 "C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\Views\_ViewImports.cshtml"
+using WebStore;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\Татьяна\Desktop\ххх\WebStore\WebStore\Views\_ViewImports.cshtml"
+using WebStore.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c077e646e96e38e118f104ac61af031d36faccb0", @"/Views/Phone/PhoneDetails.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b324a6e2d81b81761a4f4ba9d75a1f9d82a53ece", @"/Views/_ViewImports.cshtml")]
     public class Views_Phone_PhoneDetails : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<WebStore.Models.PhoneView>
     {
         #pragma warning disable 1998

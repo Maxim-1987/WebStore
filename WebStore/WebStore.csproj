@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Views\Home\Partial\" />
     <Folder Include="wwwroot\lib\" />
   </ItemGroup>
 
