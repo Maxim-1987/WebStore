@@ -11,9 +11,9 @@ namespace WebStore.Controllers
     [Route("users")]
     public class EmployeeController : Controller
     {
-        private readonly IEmployeesService _employeesService;
+        private readonly WebStore.Infrastructure.Interfaces.IEmployeesService _employeesService;
 
-        public EmployeeController(IEmployeesService employeesService)
+        public EmployeeController(WebStore.Infrastructure.Interfaces.IEmployeesService employeesService)
         {
             _employeesService = employeesService;
         }/// <summary>

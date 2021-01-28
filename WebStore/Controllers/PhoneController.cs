@@ -12,9 +12,9 @@ namespace WebStore.Controllers
     [Route("phone")]
     public class PhoneController : Controller
     {
-        private readonly IPhoneService _phoneService;
+        private readonly WebStore.Infrastructure.Interfaces.IPhoneService _phoneService;
 
-        public PhoneController(IPhoneService phoneService)
+        public PhoneController(WebStore.Infrastructure.Interfaces.IPhoneService phoneService)
         {
             _phoneService = phoneService;
         }
