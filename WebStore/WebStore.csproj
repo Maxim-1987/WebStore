@@ -12,6 +12,7 @@
     <Folder Include="Views\Home\Partial\" />
     <Folder Include="Views\Employee\" />
     <Folder Include="wwwroot\lib\" />
+    <Folder Include="Infrastructure\" />
   </ItemGroup>
 
 </Project>
